@@ -46,8 +46,8 @@ Skilled in building scalable APIs, interactive UIs, and real-world applications 
 ## 📂 Featured Projects
 
 - 🚗 **Car Rental Management System** — ASP.NET Core + Angular + SQL Server
+- ☁️ **Clinic Management System** — ASP.Net Core MVC
 - 📱 **E-Commerce App** — Flutter + Firebase + Paymob Payment
-- ☁️ **Weather & Movie Apps** — API integration + State management
 - 🏏 **Cricket Score App** — Real-time updates with Firebase
 
 ---
